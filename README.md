@@ -3,7 +3,7 @@ Plugins of game building blocks we have needed &amp; learned how to make along t
 
 ## List of plugins + Credits/Acknowledgements
 
-<b>1. <a href="https://github.com/LehighRiVR/DevTools/blob/main/Responsive_WebGL_Template.unitypackage">Responsive WebGL Template</a></b> <br>
+<b>1. <a href="https://github.com/LehighRiVR/DevTools/raw/main/Responsive_WebGL_Template.unitypackage">Responsive WebGL Template</a></b> <br>
    <b>Developer:</b> Robson M. Araujo-Junior<br>
    <b>Support:</b> Davi B. Moura<br>
    <b>Tutorial used</b> to create this tool is from: <a href="http://alientechlab.com/">Alien TechLAB</a> <a href="https://youtu.be/uO9WYfqBW-s">[YouTube Channel]</a> <br><hr>
