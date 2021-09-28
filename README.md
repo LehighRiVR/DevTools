@@ -9,7 +9,7 @@ Plugins of game building blocks we have needed &amp; learned how to make along t
 ## Credits/Acknowledgements
 
 <b>1. Tutorial used to create this tool </b> is from: <br>
-Alien TechLAB [YouTube Channel] | https://youtu.be/uO9WYfqBW-s <br> http://alientechlab.com/ | contact@alientechlab.com <br><br>
+<a href="http://alientechlab.com/">Alien TechLAB</a> <a href="https://youtu.be/uO9WYfqBW-s">[YouTube Channel]</a> <br><br>
    Developer: Robson M. Araujo-Junior<br>
    Support: Davi B. Moura<br><br> 
    
