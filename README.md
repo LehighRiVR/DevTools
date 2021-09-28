@@ -3,7 +3,7 @@ Plugins of game building blocks we have needed &amp; learned how to make along t
 
 ## List of plugins
 
-<b>1. Responsive WebGL Template</b>
+<b>1. Responsive WebGL Template</b> <br>
 <b>2. Fake Loading Screen with Tutorial Cards Template</b>
 
 ## Credits/Acknowledgements
